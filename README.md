@@ -102,7 +102,7 @@ This project demonstrates how **data analytics and machine learning techniques**
 
 ## 🧑‍💻 Author
 
-**Faiz Raza**
+**Rabbani Holi**
 Data Science | Cybersecurity Analytics | Machine Learning
 
 🔗 GitHub: [https://github.com/Razafaaiz](https://github.com/Razafaaiz)
@@ -110,3 +110,4 @@ Data Science | Cybersecurity Analytics | Machine Learning
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
+
