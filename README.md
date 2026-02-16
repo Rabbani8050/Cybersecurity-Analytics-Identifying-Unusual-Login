@@ -105,9 +105,9 @@ This project demonstrates how **data analytics and machine learning techniques**
 **Rabbani Holi**
 Data Science | Cybersecurity Analytics | Machine Learning
 
-🔗 GitHub: [https://github.com/Razafaaiz](https://github.com/Razafaaiz)
 
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
+
 
